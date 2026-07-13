@@ -105,11 +105,7 @@ The chatbot restores the most recent session automatically when the application 
 
 ### Chat Conversation and Conversation Recovery
 
-> Replace this with your first screenshot.
-
-```md
 ![Chat Demo](images/chat-demo.png)
-```
 
 ---
 
